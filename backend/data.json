@@ -1,0 +1,35 @@
+[
+    {
+      "userType": "student",
+      "userFullName": "John Doe",
+      "admissionId": "A123",
+      "age": 20,
+      "gender": "Male",
+      "dob": "2003-01-01",
+      "address": "123 Main St",
+      "mobileNumber": 1234567890,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "points": 50,
+      "isAdmin": false,
+      "activeTransactions": [],
+      "prevTransactions": []
+    },
+    {
+      "userType": "teacher",
+      "userFullName": "Jane Smith",
+      "employeeId": "T456",
+      "age": 35,
+      "gender": "Female",
+      "dob": "1988-05-10",
+      "address": "456 Oak St",
+      "mobileNumber": 9876543210,
+      "email": "jane.smith@example.com",
+      "password": "securePass456",
+      "points": 100,
+      "isAdmin": true,
+      "activeTransactions": [],
+      "prevTransactions": []
+    }
+  ]
+  
